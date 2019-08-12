@@ -2,7 +2,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/kristianp/turicreate?style=for-the-badge)
 [![](https://images.microbadger.com/badges/image/kristianp/turicreate.svg)](https://microbadger.com/images/kristianp/turicreate "Get your own image badge on microbadger.com")
 
-This is a fork of https://github.com/houtzager/turicreate-image .  This fork is based on Ubuntu 18.04, and runs on python3, without any virtualenv, so remember to use python3 and pip3 in commands.
+This is a fork of https://github.com/houtzager/turicreate-image .  This fork is based on Ubuntu 18.04, and runs on python3, without any virtualenv, so remember to use python3 and pip3 in commands to make use of python 3. Just running python will get you python2.
 
 
 This repository contains a Docker image for running Turi Create scripts.  This fork also contains jupyterlab notebook, so turicreate can be used in a jupyter notebook.
